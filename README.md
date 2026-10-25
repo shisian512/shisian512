@@ -21,23 +21,25 @@ I work across **SRE**, **DevOps**, and **MLOps**, with experience in enterprise 
 
 **Observability & MLOps:** ELK · Kibana · Prometheus · Grafana · Matomo · MLflow · DVC
 
-**Software & Security:** Python · FastAPI · REST APIs · Neo4j · RAG · Authentication · RBAC · Audit Logging
+**Software & Security:** Python · FastAPI · Next.js · REST APIs · Neo4j · RAG · SSO · RBAC · Audit Logging
 
 ---
 
 ## 🧰 Highlights
 
 **Infineon Technologies — Site Reliability Engineer**  
-Productionized an AI-enabled documentation platform on OpenShift; support releases, incident response, and operations across 50+ servers and virtual machines.
+Productionized an AI-enabled documentation platform on OpenShift, evolving it from prototype to a multi-environment (Dev/Staging/Prod) enterprise system. I manage 50+ Windows and RHEL servers, support monthly production releases via Azure DevOps, and investigate incidents using ELK/Kibana.
 
-**Intel — Graduate Trainee**
-Co-developed a GenAI education platform, containerized inference workflows, and validated AI workloads on Intel platforms.
+**Intel — Graduate Trainee**  
+Received the **Intel Outstanding Performance Award**. Co-developed a GenAI education platform using Next.js and FastAPI; containerized AI inference workflows for Intel GPUs (OPEA); and validated AI workloads on Intel Xeon platforms.
 
 **Self & OSS Projects**  
 - [Mini AI Factory](https://github.com/shisian512/mini-ai-factory): model prediction, cited retrieval, Docker, Helm, CI validation, and configured GitOps releases.
 - [Regression MLOps pipeline](https://github.com/shisian512/mlops): model/data workflows, MLflow, DVC, Kubernetes, and monitoring.
 
-**Academic & Research**  
+**Academic & Certifications**  
+- **Docker Certified Associate (DCA)**
+- **B.CompSc (Artificial Intelligence)**, First Class Honours, Multimedia University.
 - Color Stack cGAN research for grayscale image colorization; presented at an academic symposium.
 
 ---
