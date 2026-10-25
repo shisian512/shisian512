@@ -1,48 +1,44 @@
 # 👋 Hi, I’m **Shi Sian (Nick) Tan**
-**Site Reliability Engineer @ Infineon Technologies** | ex-Intel  
-Building reliable, scalable, and automated systems for real-world AI and cloud platforms.
+**Site Reliability Engineer | DevOps, Platform Engineering & MLOps**
+
+Building reliable delivery platforms and operational workflows for enterprise and AI systems.
 
 📍 Melaka, Malaysia  
-🔗 [GitHub](https://github.com/shisian512) · [Blog](https://shisian512.github.io/about/) · [LinkedIn](https://www.linkedin.com/in/tan-shi-sian)
+🔗 [GitHub](https://github.com/shisian512) · [Portfolio](https://shisian512.github.io/) · [CV](https://shisian512.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/tan-shi-sian)
 
 ---
 
 ## 💡 What I Do
-I work at the intersection of **SRE**, **AI/ML infrastructure**, and **cloud automation** — turning complex systems into stable, observable, and scalable platforms. From LLM services to monitoring pipelines, I ship things that run in production.
+I work across **SRE**, **DevOps**, and **MLOps**, with experience in enterprise platform operations, OpenShift/Kubernetes, production releases, observability, incident investigation, automation, and AI infrastructure. At Infineon, I productionized an AI-enabled technical documentation platform and support business-critical services across 50+ servers and virtual machines globally.
 
 ---
 
 ## 🚀 Skills & Tools
 
-**Cloud & Infra**  
-AWS · Azure · GCP · Terraform · Docker · Kubernetes
+**Platform & Infrastructure:** OpenShift · Kubernetes · Docker · Helm · Windows Server · RHEL · AWS · Terraform
 
-**SRE & Observability**  
-Prometheus · Grafana · CI/CD (Jenkins, GitHub Actions)
+**CI/CD & Automation:** Azure DevOps · GitHub Actions · Jenkins · Argo CD · PowerShell · Bash
 
-**ML Systems & MLOps**  
-MLflow · Airflow · DVC · Model Deployment
+**Observability & MLOps:** ELK · Kibana · Prometheus · Grafana · Matomo · MLflow · DVC
 
-**Backend & Automation**  
-Python · FastAPI · REST APIs · IaC · Monitoring · Optimization
+**Software & Security:** Python · FastAPI · REST APIs · Neo4j · RAG · Authentication · RBAC · Audit Logging
 
 ---
 
 ## 🧰 Highlights
 
 **Infineon Technologies — Site Reliability Engineer**  
-Reliability engineering, cloud automation, large-scale systems.
+Productionized an AI-enabled documentation platform on OpenShift; support releases, incident response, and operations across 50+ servers and virtual machines.
 
-**Intel — Software Engineer**  
-AI/ML platform deployment, container-first workflows.
+**Intel — Graduate Trainee**
+Co-developed a GenAI education platform, containerized inference workflows, and validated AI workloads on Intel platforms.
 
 **Self & OSS Projects**  
-- End-to-end MLOps pipelines  
-- Observability stacks (Prometheus, Grafana)  
-- APIs with FastAPI & Streamlit
+- [Mini AI Factory](https://github.com/shisian512/mini-ai-factory): model prediction, cited retrieval, Docker, Helm, CI validation, and configured GitOps releases.
+- [Regression MLOps pipeline](https://github.com/shisian512/mlops): model/data workflows, MLflow, DVC, Kubernetes, and monitoring.
 
 **Academic & Research**  
-- GAN research & ML prototypes
+- Color Stack cGAN research for grayscale image colorization; presented at an academic symposium.
 
 ---
 
